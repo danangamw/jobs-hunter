@@ -12,6 +12,8 @@ dist
 dist-ssr
 .env
 readme.md
+populate.js
+mock-data.json
 *.local
 
 # Editor directories and files
